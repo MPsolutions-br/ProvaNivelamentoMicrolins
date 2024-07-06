@@ -1,0 +1,29 @@
+Prompt de Comando Universal para Reutilização de Código
+Descrição do Problema:
+Estou enfrentando dificuldades para obter ajuda com a reutilização e modificação de códigos enviados. As respostas fornecidas até agora são incompletas, faltando partes essenciais e não mantendo a estrutura adequada. Preciso de assistência para garantir que o código completo seja enviado de volta após as mudanças necessárias.
+
+Erro Encontrado:
+O assistente frequentemente retorna respostas parciais, omitindo partes cruciais do código.
+A estrutura do código não é mantida de forma consistente nas respostas fornecidas.
+As tentativas de gerar arquivos completos falharam várias vezes.
+Requisitos Específicos:
+Estrutura Completa do Projeto:
+
+Pasta Raiz: Deve conter todos os arquivos e subpastas necessários.
+Subpastas e Arquivos: Cada subpasta deve conter os arquivos específicos necessários.
+Conteúdo Completo dos Arquivos:
+
+HTML: O arquivo HTML principal e quaisquer arquivos HTML adicionais devem estar completos.
+JavaScript: O arquivo JavaScript deve conter toda a lógica necessária.
+CSS: Qualquer arquivo CSS necessário deve estar incluído e completo.
+Alterações Necessárias:
+
+Faça mudanças específicas no conteúdo conforme solicitado.
+Mantenha a estrutura original do código.
+Garanta que todo o código relevante esteja incluído na resposta.
+Observações Adicionais:
+Certifique-se de que a formatação do código esteja correta e consistente.
+Inclua comentários explicativos no código quando necessário para maior clareza.
+Verifique se todos os links e caminhos de arquivos estão corretos e funcionais.
+Caso haja arquivos adicionais necessários para o funcionamento correto do projeto, inclua-os também na resposta.
+Se houver etapas específicas para testar ou executar o código modificado, forneça instruções claras.
